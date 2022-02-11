@@ -68,7 +68,7 @@ Dice Score: 0.8669
 
 ![Untitled](BRATS%20Brain%20Tumor%20Segmentation%20781fd1aaf07a4c49bee366f8662474a2/Untitled%2013.png)
 
-### Additional Results
+Additional Results
 
 ![Untitled](BRATS%20Brain%20Tumor%20Segmentation%20781fd1aaf07a4c49bee366f8662474a2/Untitled%2014.png)
 
