@@ -4,7 +4,12 @@
 
 This repository consists of implementations of brain tumor segmentation segmentation algorithms on the images obtained from BRATS challenges. Here, segmentation algorithms in ITK library are employed and then an Attention U-Net based segmentation algorithm is explored.
 
+Combined Script with ITK algorithms and Atten U-Net
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jathurshan0330/BRATS-Brain-Tumor-Segmentation/blob/master/170248G_BM4301_Brain_Tumor_Segmentation.ipynb)
+
+
+Attention U-Net Training and Evaluation Script:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jathurshan0330/BRATS-Brain-Tumor-Segmentation/blob/master/BM4301_Brain_Tumor_Segmentation_using_Atten_UNet.ipynb)
 
 ## Brain Tumor Segmentation Using ITK
 
